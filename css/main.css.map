@@ -1,0 +1,15 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "main.scss",
+        "_normalize.scss",
+        "normalize/_variables.scss",
+        "normalize/_vertical-rhythm.scss",
+        "normalize/_normalize-mixin.scss",
+        "_mixins.scss",
+        "_variable.scss"
+    ],
+    "names": [],
+    "file": "main.css"
+}
